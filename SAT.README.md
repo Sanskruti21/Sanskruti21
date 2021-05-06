@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sanskruti21
 - 👀 I’m interested in everyday learning......
-- 📫 How to reach me (sanskrutitelang21@gmail.com)...
 
 <!---
 Sanskruti21/Sanskruti21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
